@@ -27,13 +27,12 @@ produce the suggestions for both, the current word and the following word.
 information section of the app.
 
 * For an English only version of the predictor check the
-<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
-English app</a>.  
+<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">English app</a>.  
 
 * Or for a Spanish only version check the
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish app</a>.  
 
-* [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).  
+* See this in [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).  
 
 ### More Information
 
@@ -137,13 +136,12 @@ palabra en curso y la palabra siguiente.
 * Para descubrir más, visita la sección de información de la aplicación.  
 
 * Para ver la versión solo inglés de la aplicación, visita
-<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
-English app</a>.  
+<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">English app</a>.  
 
 * O para la versión solo español, visita
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish app</a>.  
 
-* [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).   
+* Ver en [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).   
 
 ### Más Información
 
