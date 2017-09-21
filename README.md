@@ -108,7 +108,7 @@ rel="see html report">
 
 <h1 id="lang"></h1>
 <hr>
-<br> 
+
 
 ## Procesamiento de Lenguaje Natural - Predictor Bilingüe con Detector Automatico de Idioma  
 
