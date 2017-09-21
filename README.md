@@ -140,7 +140,7 @@ palabra en curso y la palabra siguiente.
 * O para la versión solo español, visita
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish app</a>.  
 
-* Ver en [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).   
+* Ver esta página en [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).   
 
 ### Más Información
 
@@ -210,9 +210,7 @@ Predictions per second = 333
 <br>
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-Bilingual-Predictor/" 
-rel="see html report">
+rel="github pages">
 <img src="bi_cloud2.png" alt="Drawing" width = "350"></a>
 </p>
-<br>
-<hr>
 <br>
