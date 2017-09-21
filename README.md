@@ -103,7 +103,7 @@ allows for smooth execution, and easy scale-up without being heavy on resources.
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-Bilingual-Predictor/" 
 rel="see html report">
-<img src="bi_cloud.png" alt="Drawing" width = "300"></a>
+<img src="bi_cloud2.png" alt="Drawing" width = "300"></a>
 </p>
 
 <h1 id="lang"></h1>
@@ -212,7 +212,7 @@ Predictions per second = 333
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-Bilingual-Predictor/" 
 rel="see html report">
-<img src="bi_cloud.png" alt="Drawing" width = "300"></a>
+<img src="bi_cloud2.png" alt="Drawing" width = "300"></a>
 </p>
 <br>
 <hr>
