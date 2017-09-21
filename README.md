@@ -32,7 +32,7 @@ information section of the app.
 * Or for a Spanish only version check the
 <a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish app</a>.  
 
-* See this in [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).  
+* See this on [GitHub Pages](https://reyvaz.github.io/NLP-Bilingual-Predictor/).  
 
 ### More Information
 
