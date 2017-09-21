@@ -4,7 +4,7 @@
 <a href="#lang">**Presiona aquí**</a> para leer la información en
 <a href="#lang">**español**</a>
 
-## Natural Language Processing - Bilingual Word Predictor with Language Auto-Detect
+## Natural Language Processing: Bilingual Predictor with Language Auto-Detect
 
 ### Contents    
 
@@ -107,9 +107,9 @@ rel="github pages">
 </p>
 
 <h1 id="lang"></h1>
+<br>
 
-
-## Procesamiento de Lenguaje Natural - Predictor Bilingüe con Detector Automatico de Idioma  
+## Procesamiento de Lenguaje Natural: Predictor Bilingüe con Detector Automatico de Idioma  
 
 <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">
 <b>Presiona aquí</b></a> para verlo en una aplicación online.  
